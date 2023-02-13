@@ -1,1 +1,1 @@
-Github repository on alx system engineering devops
+ a script that prints hello world
