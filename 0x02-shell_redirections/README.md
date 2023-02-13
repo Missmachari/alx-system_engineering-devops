@@ -1,1 +1,1 @@
-0x02-shell_redirections readme
+ a script that displays a confused smiley "(Ôo)'
