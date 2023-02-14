@@ -1,1 +1,1 @@
-a script that lists environment variables
+a script that creates an alias
